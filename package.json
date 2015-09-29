@@ -1,0 +1,8 @@
+{
+  "name": "is-node-env",
+  "description": "Know when your code is in a NodeJS environment.",
+  "version": "1.0.0",
+  "browser": {
+    "./node": "./browser"
+  }
+}
